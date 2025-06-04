@@ -23,7 +23,7 @@ This project demonstrates and compares four different logistic regression modeli
 
 ## 📁 Files
 
-- `logistic_regression_comparison.py` — The main Python script comparing the models
+- `Logistic_Regression.py` — The main Python script comparing the models
 - `sample_logistic_data.csv` — Sample dataset used for binary classification
 - `README.md` — Project description and usage instructions
 
